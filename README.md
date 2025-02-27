@@ -41,7 +41,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 
 > ![Churn distribution wrt Gender](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Churn-Male-Female.png)
 > 
-> There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
+> There is negligible difference in customer percentage/count who changed the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 ### 3. Customer Contract distribution:
 
@@ -81,11 +81,11 @@ To detect early signs of potential churn, one must first develop a holistic view
 > 
 ![Churn distribution w.r.t Senior Citizen](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Senior_Citizen_Churn.png)
 
-### 9. Paperless Billing:
+### 9. Paperless Booking:
 
-> Customers with Paperless Billing are most likely to churn.
+> Customers with Paperless Booking are most likely to churn.
 > 
-![Churn distribution w.r.t mode of billing](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Paperless%20booking.png)
+![Churn distribution w.r.t mode of booking](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Paperless%20booking.png)
 
 ### 10. Tech support:
 
@@ -93,7 +93,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 > 
 ![Churn distribution w.r.t Tech support](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Tech%20Support.png)
 
-### 11. Distribution w.r.t Charges and Tenure:
+### 11. Distribution w.r.t Monthly and Total Charges :
 > ![Monthly Charges](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Monthly%20Charges%20KDE.png)
 > ![Total Charges](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/Total%20Charges%20KDE.png)
 
