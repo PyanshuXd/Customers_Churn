@@ -1,6 +1,6 @@
 # <div align="center">Telecom Customer Churn Prediction</div>
 
-![Intro](https://github.com/PyanshuXd/Customers_Churn/blob/44f5b504d2f5f4452a7bcd27b290bd67163b5acb/Outputs/customer%20churn.jpeg)
+![Intro](https://github.com/PyanshuXd/Customers_Churn/blob/0e1e552203b3558993c80095f27030bcbf01713a/Outputs/Reducing%20Customer%20Churn%20Rate.webp)
 
 ## What is Customer Churn?
 Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service.
