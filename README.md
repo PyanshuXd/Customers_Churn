@@ -31,7 +31,16 @@ To detect early signs of potential churn, one must first develop a holistic view
 **Libraries:** Matplotlib, pandas, seaborn, and NumPy
 
 ## Few glimpses of EDA:
-### 1. Churn distribution:
+
+### DASHBOARDS (PowerBI):
+
+> ![Churn distribution](https://github.com/PyanshuXd/Customers_Churn/blob/4c931b5d36f7cdb4d7333bc417878f6535e7b1d0/Outputs/Churn.png)
+> 
+> ![Churn distribution](https://github.com/PyanshuXd/Customers_Churn/blob/4c931b5d36f7cdb4d7333bc417878f6535e7b1d0/Outputs/Revenue.png)
+> 
+> ![Churn distribution](https://github.com/PyanshuXd/Customers_Churn/blob/4c931b5d36f7cdb4d7333bc417878f6535e7b1d0/Outputs/Services.png)
+
+### 1. Churn distribution (Python):
 
 > ![Churn distribution](https://github.com/PyanshuXd/Customers_Churn/blob/e10ff1b3bdcc592991b201d5e9c98d53c5578716/Outputs/%25%20of%20Churn.png)
 > 
